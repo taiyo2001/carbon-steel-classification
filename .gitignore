@@ -5,3 +5,4 @@
 .env
 
 /TODO.txt
+/dataset_npz/*
