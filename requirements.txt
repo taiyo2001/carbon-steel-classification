@@ -11,3 +11,8 @@ scikit-learn
 albumentations
 tqdm
 seaborn
+
+
+japanize-matplotlib
+torchviz
+torchinfo
