@@ -6,3 +6,12 @@
 
 /TODO.txt
 /dataset_npz/*
+
+# 設定、キャッシュ
+.bash_history
+.pytorch_history
+.python_history
+.congfig
+.cache
+.ipython
+.jupyter
