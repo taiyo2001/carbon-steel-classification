@@ -12,6 +12,7 @@ albumentations
 tqdm
 seaborn
 
+pytorch-grad-cam
 
 japanize-matplotlib
 torchviz
