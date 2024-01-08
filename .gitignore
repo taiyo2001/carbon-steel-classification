@@ -4,7 +4,8 @@
 /images/*
 .env
 
-/TODO.txt
+/result/*
+
 /dataset_npz/*
 
 # 設定、キャッシュ
