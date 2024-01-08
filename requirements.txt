@@ -17,3 +17,5 @@ pytorch-grad-cam
 japanize-matplotlib
 torchviz
 torchinfo
+
+black[jupyter]
