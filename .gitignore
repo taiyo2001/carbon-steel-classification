@@ -11,13 +11,19 @@
 
 /dataset_npz/*
 
-# 設定、キャッシュ
-.bash_history
-.pytorch_history
-.python_history
-.congfig
+# cache
 .cache
+.config
 .ipython
+.python_history
+.bash_history
 .jupyter
+.nv
+tmp
+__pycache__
+
+
+# test file
+test.*
 
 app/AlexNet_model_max_weight.pth
