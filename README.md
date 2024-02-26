@@ -6,8 +6,6 @@
 
 .
 ├── app
-│   ├── each_label_gradcam.ipynb
-│   ├── main_colab.ipynb
 │   ├── main_kcs.ipynb
 │   ├── main_ubuntu_AlexNet_v2.ipynb
 │   └── services
@@ -20,6 +18,7 @@
 ├── config
 │   ├── __init__.py
 │   └── setting.py
+├── dataset_npz
 ├── Dockerfile
 ├── Makefile
 ├── module
@@ -32,10 +31,13 @@
 ├── result
 │   ├── main_ubuntu_AlexNet_v1.nbconvert.ipynb
 │   ├── main_ubuntu_AlexNet_v2_drop.nbconvert.ipynb
-│   └── main_ubuntu_lenet_v2_BN.nbconvert.ipynb
+│   ├── main_ubuntu_lenet_v2_BN.nbconvert.ipynb
+│   └── services
+│       └── gradcam.nbconvert.ipynb
 └── setup.py
+
 </pre>
-6 directories, 24 files
+8 directories, 22 files
 
 
 ## 環境構築
