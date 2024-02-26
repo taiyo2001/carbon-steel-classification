@@ -8,6 +8,7 @@
 !/result/main_ubuntu_AlexNet_v1.nbconvert.ipynb
 !/result/main_ubuntu_AlexNet_v2_drop.nbconvert.ipynb
 !/result/main_ubuntu_lenet_v2_BN.nbconvert.ipynb
+!/result/services/gradcam.nbconvert.ipynb
 
 /dataset_npz/*
 
