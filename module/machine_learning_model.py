@@ -2,7 +2,7 @@ from torch import nn, randn
 
 
 class AlexNet(nn.Module):
-    def __init__(self, n_output, n_hidden, input):
+    def __init__(self, n_output, n_hidden, input=None):
         super().__init__()
         self.conv1 = nn.Conv2d(3, 32, 3, padding=(1, 1))
         self.conv2 = nn.Conv2d(32, 32, 3, padding=(1, 1))
